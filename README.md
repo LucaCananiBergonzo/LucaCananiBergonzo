@@ -4,9 +4,9 @@
 - 🔭  Trabalhando como Desenvolvedor Front-End Junior na Windel Sistemas
 - 🌱  Atualmente estudando React e em graduação no curso de ADS 
 
-###Minhas Skills:
+## Minhas Skills:
 
-Aplicações e Dados
+### Aplicações e Dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
           
@@ -16,12 +16,12 @@ Aplicações e Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="50" height="50"/><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" width="150" height="50" />
           
 
-DevOps
+### DevOps
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
            
 
-Ferramentas de Desenvolvimento
+### Ferramentas de Desenvolvimento
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="50" height="50"/>
 
