@@ -13,7 +13,7 @@ Aplicações e Dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>          
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="50" height="50"/><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" width="100" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="50" height="50"/><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" width="120" height="50" />
           
 
 DevOps
@@ -32,10 +32,6 @@ Ferramentas de Desenvolvimento
 <a href = "mailto:lucabergonzo@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<a href="https://github.com/LucaCananiBergonzo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCananiBergonzo&langs_count=8"/>
-</div>
 
 <!--
 **LucaCananiBergonzo/LucaCananiBergonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
